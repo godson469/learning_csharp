@@ -1,0 +1,13 @@
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\bin\Debug\netcoreapp3.1\DayGrader.exe
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\bin\Debug\netcoreapp3.1\DayGrader.deps.json
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\bin\Debug\netcoreapp3.1\DayGrader.runtimeconfig.json
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\bin\Debug\netcoreapp3.1\DayGrader.runtimeconfig.dev.json
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\bin\Debug\netcoreapp3.1\DayGrader.dll
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\bin\Debug\netcoreapp3.1\DayGrader.pdb
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.csprojAssemblyReference.cache
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.csproj.CoreCompileInputs.cache
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.AssemblyInfoInputs.cache
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.AssemblyInfo.cs
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.dll
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.pdb
+C:\Users\Tunde\Documents\Start.ng\C#\Task2\DayGrader\obj\Debug\netcoreapp3.1\DayGrader.genruntimeconfig.cache

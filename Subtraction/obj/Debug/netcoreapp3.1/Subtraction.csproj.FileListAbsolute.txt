@@ -1,0 +1,13 @@
+C:\Users\Tunde\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.exe
+C:\Users\Tunde\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.deps.json
+C:\Users\Tunde\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.runtimeconfig.json
+C:\Users\Tunde\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.runtimeconfig.dev.json
+C:\Users\Tunde\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.dll
+C:\Users\Tunde\Subtraction\bin\Debug\netcoreapp3.1\Subtraction.pdb
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csprojAssemblyReference.cache
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.AssemblyInfoInputs.cache
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.AssemblyInfo.cs
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.dll
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.pdb
+C:\Users\Tunde\Subtraction\obj\Debug\netcoreapp3.1\Subtraction.genruntimeconfig.cache
