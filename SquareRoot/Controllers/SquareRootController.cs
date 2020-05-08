@@ -17,13 +17,14 @@ namespace SquareRoot.Controllers
             int numberTwo = int.Parse(secondNumber);
             double squareOne = Math.Sqrt(numberOne);
             double squareTwo = Math.Sqrt(numberOne);
+            
             if(squareOne > squareTwo){
                 int result = numberOne;
+                ViewBag.Result = result;
             }else if(squareOne < squareTwo){
                 int result = numberTwo;
+                ViewBag.Result = result;
             };
-
-            ViewBag.Result = result;
             return View();
         }
     }
