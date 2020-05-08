@@ -1,0 +1,26 @@
+@{
+    ViewData["Title"] = "Higher Square-Root";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Higher Square-Root</h1>
+    <p>Input two numbers and find out which one has the highest square-root</a>.</p>
+</div>
+
+@{
+    if(ViewBag.Result != null){
+    <div>
+        <p>@ViewBag.Result has the higher square-root</p>
+    </div>
+    }
+}
+
+<div>
+    <form asp-controller="Calc" asp-action="Add" method="POST">
+
+        <input type="number" name="firstNumber" placeholder="First Number"/>
+        <input type="number" name="secondNumber" placeholder="Second Number"/>
+        <button type="submit">Submit</button>
+
+    </form>
+</div>
