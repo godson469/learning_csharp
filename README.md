@@ -1,2 +1,2 @@
-# learning_csharp
+# SquareRoot
 My C# journey
